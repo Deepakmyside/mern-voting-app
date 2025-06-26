@@ -37,7 +37,9 @@ voting_app/
 
 
 git clone https://github.com/Deepakmyside/mern-voting-app.git
+
 cd mern-voting-app
+
 npm install
 
 
